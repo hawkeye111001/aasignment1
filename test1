@@ -1,0 +1,7 @@
+#!/bin/bash
+
+git checkout -b dev1
+touch file{1..10}
+git add test1
+git commit -m "file1"
+
